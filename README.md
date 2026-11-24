@@ -1,7 +1,7 @@
 # Hi there, I'm Thanyatorn 👋
 ## Welcome to my GitHub Profile! ✨
 
-**[Your Role or Interests, e.g.,Full-Stack Developer | CS Student]**
+**[Your Role or Interests, e.g ,Full-Stack Developer | CS Student]**
 
 🚀 Passionate about software development and building projects that solve real-world problems. Always looking for opportunities to learn and collaborate on new technologies.
 
