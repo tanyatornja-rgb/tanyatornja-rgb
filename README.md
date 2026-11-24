@@ -3,23 +3,23 @@
 
 **[ตำแหน่งงาน หรือ สิ่งที่สนใจ เช่น Full-Stack Developer | CS Student]**
 
-🚀 ชื่นชอบการพัฒนาซอฟต์แวร์และการสร้างโปรเจกต์ที่แก้ปัญหาได้จริง กำลังมองหาโอกาสในการเรียนรู้และร่วมงานด้านเทคโนโลยีใหม่ๆ
+🚀 Passionate about software development and building projects that solve real-world problems. Always looking for opportunities to learn and collaborate on new technologies.
 
 ### 🎯 My Vision
-> *"มุ่งมั่นพัฒนาเทคโนโลยีที่เรียบง่าย มีประสิทธิภาพ และสร้างคุณค่าให้กับผู้ใช้งานจริง ควบคู่ไปกับการเรียนรู้และเติบโตไปพร้อมกับคอมมูนิตี้นักพัฒนา"*
+> *"Committed to building simple, efficient technologies that create real value for users, while continuously learning and growing alongside the developer community."*
 
-- 💡 **Problem-First Mindset:** เริ่มต้นจากการเข้าใจปัญหาของผู้ใช้จริงก่อนเลือกใช้เทคโนโลยี
-- 🛠️ **Clean & Scalable Code:** เขียนโค้ดให้อ่านง่าย ดูแลรักษาได้ในระยะยาว และพร้อมต่อยอด
-- 🌱 **Continuous Learning:** เปิดรับเทคโนโลยีใหม่ๆ อยู่เสมอ และพร้อมแบ่งปันความรู้ร่วมกับทีม
+- 💡 **Problem-First Mindset:** Starting by understanding real user problems before choosing the technology.
+- 🛠️ **Clean & Scalable Code:** Writing readable, maintainable code built for long-term scalability.
+- 🌱 **Continuous Learning:** Always embracing new technologies and sharing knowledge with the team.
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 **กำลังพัฒนาโปรเจกต์:** [coming soon]
-- 🌱 **กำลังเรียนรู้เพิ่มเติม:** [เช่น TypeScript, Next.js]
-- 👯 **เปิดรับความร่วมมือด้าน:** [เช่น Web Development, Open Source]
-- 💬 **พูดคุยแลกเปลี่ยนกันได้เรื่อง:** [เช่น JavaScript, Python, System Design]
-- 📫 **ติดต่อโดยตรงได้ที่:** [thanyatorn012@gmail.com/tanyatorn.ja@ku.th]
+- 🔭 **Currently working on:** [coming soon]
+- 🌱 **Currently learning:** [เช่น TypeScript, Next.js]
+- 👯 **Looking to collaborate on:** [เช่น Web Development, Open Source]
+- 💬 **Ask me about:** [เช่น JavaScript, Python, System Design]
+- 📫 **How to reach me:** [thanyatorn012@gmail.com/tanyatorn.ja@ku.th]
 
 ---
 
