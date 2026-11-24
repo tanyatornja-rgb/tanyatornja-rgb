@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="[ลิงก์รูปแบนเนอร์ขอบมน.gif](https://giphy.com/gifs/RespectiveCollective-67-brainrot-tung-sahur-kMZJErKgZtONJZOQE6)" width="100%" alt="Profile Banner" />
+</p>
+
+
 # Hi there, I'm Thanyatorn 👋
 ## Welcome to my GitHub Profile! ✨
 
@@ -16,9 +21,9 @@
 
 ### 👨‍💻 About Me
 - 🔭 **Currently working on:** [coming soon]
-- 🌱 **Currently learning:** [เช่น TypeScript, Next.js]
-- 👯 **Looking to collaborate on:** [เช่น Web Development, Open Source]
-- 💬 **Ask me about:** [เช่น JavaScript, Python, System Design]
+- 🌱 **Currently learning:** [TypeScript, Next.js]
+- 👯 **Looking to collaborate on:** [Web Development, Open Source]
+- 💬 **Ask me about:** [JavaScript, Python, System Design]
 - 📫 **How to reach me:** [thanyatorn012@gmail.com/tanyatorn.ja@ku.th]
 
 ---
