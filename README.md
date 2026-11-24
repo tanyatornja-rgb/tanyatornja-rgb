@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="[ลิงก์รูปแบนเนอร์ขอบมน.gif](https://giphy.com/gifs/RespectiveCollective-67-brainrot-tung-sahur-kMZJErKgZtONJZOQE6)" width="100%" alt="Profile Banner" />
-</p>
-
-
 # Hi there, I'm Thanyatorn 👋
 ## Welcome to my GitHub Profile! ✨
 
